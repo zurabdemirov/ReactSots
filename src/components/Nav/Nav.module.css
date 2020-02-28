@@ -1,0 +1,10 @@
+.nav{
+    grid-area: n;
+    background-color: #ff5900d4;
+    border-top-left-radius: 5px;
+    z-index: 0;
+  }
+
+.item{
+  color:white;
+}
